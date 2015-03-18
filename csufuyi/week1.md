@@ -1,33 +1,25 @@
 #1 csufuyi:free
 
 - [x] 注册网易云课堂。
-- 输入：
-- 输出：抗抵赖的证据，最好是链接；比如：用户名是 free , 能找到
+举证：用户名是 free , 能找到
 
 - [x] Github初始化。
-- 输入：
-- 输出：[free的主页](https://github.com/csufuyi)
+举证：[free的主页](https://github.com/csufuyi)
 
 - [x] Github与Gitbook链接 + 发布图书。
-- 输入：
-- 输出：[我的书](http://csufuyi.gitbooks.io/python-startup/content/)
+举证：[我的书](http://csufuyi.gitbooks.io/python-startup/content/)
 内容的撰写需要持续修改。
 
 - [ ] say "Hello World"   
-- 输入：这个我也不知道要干啥呵
-- 输出：
+这个我也不知道要干啥呵
 
 - [ ] 开学大典心得。  
-- 输入：这个也还没空写~~
-- 输出：
+这个也还没空写~~
 
 - [ ] gitbook: 用markdown来些如何使用的markdown 教程.  
-- 输入：
-- 输出：这个是和发布图书一起完成，主要要教markdown的用法；
+这个是和发布图书一起完成，主要要教markdown的用法；
 
-- [ ] mailling-list 教程.
-- 输入：
-- 输出：  
+- [ ] mailling-list 教程.  
 什么是 mailling-list?
  为什么 mailling-list 值得用?
  和其它沟通方式 mailling-list 最大的不同是什么?
@@ -35,8 +27,10 @@
 说服6个月前的自个儿来使用 mailling-list 吧...
 
 - [ ] gitbook:用markdown写如何使用github的内容  
-输入：
-输出;
+未完成
+
+
+
 
 #2 duanxinxing:段新星
 
