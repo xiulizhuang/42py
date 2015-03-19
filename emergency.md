@@ -8,7 +8,7 @@
  | [sanyue3always](https://github.com/sanyue3always) | 三月之望
  
  
- 小组库的链接：    https://github.com/csufuyi/42py
+ 0.小组库的链接：    https://github.com/csufuyi/42py
    
  free(组长)：  
   - github 的代码仓库：https://github.com/csufuyi/mooc.py  
