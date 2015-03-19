@@ -12,7 +12,7 @@
 3. 凯凯：  
   - github 的代码仓库：https://github.com/leokaikai/omooc.py  
   - gitbook 在 github 上的图书仓库：  https://github.com/leokaikai/pythoncamp0
-  - gitbook 发布链接：  http://leokaikai.gitbooks.io/python-startup/content/
+  - gitbook 发布链接：  https://www.gitbook.com/book/leokaikai/-kaikai/details  这个有书名，没发布。
 
 
 4. Asshole徐梦阳：  
