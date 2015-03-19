@@ -1,7 +1,7 @@
 1. 段新星：   
   - github 的代码仓库：https://github.com/duanxinxing/omooc.py  
   - gitbook 在 github 上的图书仓库：  https://github.com/duanxinxing/pythoncamp0
-  - gitbook 发布链接：  http://duanxinxing.gitbooks.io/python-startup/content/
+  - gitbook 发布链接：  http://duanxinxing.gitbooks.io/python101/content/
 
 2. 庄秀丽：  
   - github 的代码仓库：https://github.com/xiulizhuang/omooc.py  
