@@ -23,7 +23,7 @@
 
 
 5. 三月之望：  
-  - github 的代码仓库：https://github.com/sanyue3always/omooc.py  
+  - github 的代码仓库：https://github.com/sanyue3always/omooc.py  这个也是空的
   - gitbook 在 github 上的图书仓库：  https://github.com/sanyue3always/pythoncamp0
   - gitbook 发布链接：  http://sanyue3always.gitbooks.io/python-startup/content/
 
