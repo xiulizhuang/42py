@@ -18,7 +18,7 @@
 4. Asshole徐梦阳：  
   - github 的代码仓库：https://github.com/42wolf/omooc.py  
   - gitbook 在 github 上的图书仓库：  https://github.com/42wolf/pythoncamp0
-  - gitbook 发布链接：  http://42wolf.gitbooks.io/python-startup/content/
+  - gitbook 发布链接：  http://42wolf.gitbooks.io/pythoncamp0/content/
 
 
 
